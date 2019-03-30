@@ -9,6 +9,6 @@
 
 词库：dict1.txt
 
-2019政府报告：government
+2019政府报告：government2019.txt
 
 执行命令: python open.py
