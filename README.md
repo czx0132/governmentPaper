@@ -12,3 +12,7 @@
 2019政府报告：government2019.txt
 
 执行命令: python open.py
+
+微信公众号：大鱼小智
+
+欢迎大家来逛逛
