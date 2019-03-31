@@ -15,4 +15,6 @@
 
 微信公众号：大鱼小智
 
+![大鱼小智](https://github.com/czx0132/governmentPaper/blob/master/qrcode_for_gh_3a7987a3eddc_258.jpg)
+
 欢迎大家来逛逛
